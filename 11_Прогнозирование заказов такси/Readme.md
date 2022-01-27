@@ -37,4 +37,4 @@
 **Выполнен**
 
 ## Используемые инструменты
-Pandas, numpy, matplotlib, timeit, statsmodels, sklearn, GridSearchCV, mean_squared_error, train_test_split, DecisionTreeRegressor, RandomForestRegressor, LinearRegression, CatBoostRegressor, lightgbm,TimeSeriesSplit
+Pandas, numpy, matplotlib, timeit, statsmodels, sklearn, GridSearchCV, mean_squared_error, train_test_split, DecisionTreeRegressor, RandomForestRegressor, LinearRegression, CatBoostRegressor, lightgbm, TimeSeriesSplit
